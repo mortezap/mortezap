@@ -1,14 +1,15 @@
-# Morteza [Your Last Name]
+# Morteza Pakdaman
 
-### Associate Professor | Climate Scientist | Applied Mathematician
+### Associate Professor | Applied Mathematics | Climate Prediction 
 
-I am an Associate Professor and climate scientist with a background in
-Applied Mathematics, Control, and Optimization.
+My background is in Applied Mathematics, Control, and Optimization.
 
 My research lies at the intersection of **climate science, mathematical
 modeling, machine learning, artificial intelligence, and optimization**,
 with a focus on developing data-driven and explainable approaches for
-climate prediction and decision support.
+climate prediction and decision support. I also have expertise in
+**Operations Research and Decision-Making, including Multi-Criteria 
+Decision Making (MCDM), Linear and Nonlinear Programming, Optimization, and Decision Support Systems**.
 
 ---
 
