@@ -74,11 +74,9 @@ including:
 
 ## 💻 Tools
 
-```text
 Python
 MATLAB
 LaTeX
-
 ---
 
 ## 🔗 Academic Profiles
