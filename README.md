@@ -77,5 +77,23 @@ including:
 ```text
 Python      
 MATLAB      
-LaTex 
+LaTex
+
+---
+
+## 🔗 Academic Profiles
+
+- **Google Scholar:** [YOUR_GOOGLE_SCHOLAR_URL](https://scholar.google.com/citations?user=BqjygGYAAAAJ&hl=en)
+- **ORCID:** [YOUR_ORCID_URL](https://orcid.org/0000-0002-8656-9251)
+- **ResearchGate:** [YOUR_RESEARCHGATE_URL](https://www.researchgate.net/profile/Morteza-Pakdaman)
+
+---
+
+## 📫 Contact
+
+For research collaborations, academic inquiries, and scientific discussions:
+
+- **Email:** pakdaman.m@gmail.com
+
+
 
