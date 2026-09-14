@@ -77,7 +77,7 @@ including:
 ```text
 Python      
 MATLAB      
-LaTex
+LaTex```
 
 ---
 
