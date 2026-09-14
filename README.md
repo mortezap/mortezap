@@ -19,12 +19,11 @@ Decision Making (MCDM), Linear and Nonlinear Programming, Optimization, and Deci
 - 🤖 Machine Learning & Artificial Intelligence in Climate Science
 - 📈 Time Series Forecasting
 - 🌦️ Seasonal Climate Prediction
-- 🌡️ Climate Extremes and Climate Change
+- 🌡️ Climate Change
 - 🧮 Mathematical Modeling
 - 🎯 Control and Optimization
 - 📊 Multi-Criteria Decision Making (MCDM)
 - 🔍 Explainable Artificial Intelligence (XAI)
-- 🛰️ Remote Sensing and Earth Observation
 - 🌐 CMIP6 & ERA5 Data Analysis
 - 🌱 Climate Applications in Agriculture and Environment
 
@@ -66,8 +65,8 @@ including:
 ## 💻 Computational Tools
 
 ```text
-Python       ████████████████████
-MATLAB       ██████████████████
-Machine      Learning ███████████████████
-Climate      Modeling ████████████████████
-Optimization ███████████████████
+Python      
+MATLAB      
+Machine Learning 
+Climate Modeling 
+Optimization 
