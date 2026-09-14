@@ -58,25 +58,11 @@ Decision Making (MCDM), Linear and Nonlinear Programming, Optimization, and Deci
 
 ---
 
-## 🌍 Climate Data & Modeling
-
-My work involves large-scale climate and environmental datasets,
-including:
-
-- **ERA5 / ERA5-Land**
-- **CMIP6**
-- **ECMWF seasonal forecasts**
-- Meteorological station observations
-- Remote sensing and satellite-derived indices
-- Climate extreme indices
-
----
-
 ## 💻 Tools
 
-Python
-MATLAB
-LaTeX
+- **Python**
+- **MATLAB**
+- **LaTeX**
 ---
 
 ## 🔗 Academic Profiles
