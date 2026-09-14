@@ -29,6 +29,16 @@ Decision Making (MCDM), Linear and Nonlinear Programming, Optimization, and Deci
 
 ---
 
+## 🏛️ Academic Service
+
+- **Associate Editor**, [Network: Computation in Neural Systems (NCNS)](https://www.tandfonline.com/journals/inet20)
+
+- **Editorial Board Member**, [Theoretical and Applied Climatology (TAAC)](https://link.springer.com/journal/704/editorial-board)
+
+- **Editorial Board Member**, [Discover Applied Sciences](https://link.springer.com/journal/42452/editors)
+
+---
+
 ## 🧠 Methods & Techniques
 
 **Machine Learning**
