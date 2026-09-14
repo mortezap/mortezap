@@ -72,12 +72,12 @@ including:
 
 ---
 
-## 💻  Tools
+## 💻 Tools
 
 ```text
-Python      
-MATLAB      
-LaTex```
+Python
+MATLAB
+LaTeX
 
 ---
 
