@@ -62,11 +62,10 @@ including:
 
 ---
 
-## 💻 Computational Tools
+## 💻  Tools
 
 ```text
 Python      
 MATLAB      
-Machine Learning 
-Climate Modeling 
-Optimization 
+LaTex 
+
