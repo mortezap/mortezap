@@ -68,8 +68,8 @@ Decision Making (MCDM), Linear and Nonlinear Programming, Optimization, and Deci
 ## 🔗 Academic Profiles
 
 - **Google Scholar:** [YOUR_GOOGLE_SCHOLAR_URL](https://scholar.google.com/citations?user=BqjygGYAAAAJ&hl=en)
-- **ORCID:** [YOUR_ORCID_URL](https://orcid.org/0000-0002-8656-9251)
-- **ResearchGate:** [YOUR_RESEARCHGATE_URL](https://www.researchgate.net/profile/Morteza-Pakdaman)
+- **ORCID:** (https://orcid.org/0000-0002-8656-9251)
+- **ResearchGate:** (https://www.researchgate.net/profile/Morteza-Pakdaman)
 
 ---
 
